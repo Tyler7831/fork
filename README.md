@@ -1,5 +1,5 @@
-## 👏 Hi, I'm *your name here*
-##  About Me
+## 👏 Tyler Clark*
+##  Im utsa students going into cybersecuirty
 _Share some information about yourself, including your class, major, jobs, and extra-curriculars._
 ## ⚒️ Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
